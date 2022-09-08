@@ -36,11 +36,11 @@ async function fetchUsers(startId) {
     }
 
     console.log(
-      `${i} (${ethers.utils.hexlify(i)}) => https://lenster.xyz/u/${handle}`
+      `${i} (${ethers.utils.hexlify(i)}) => https://lenstats.xyz/profile/${handle}`
     )
     fs.appendFileSync(
       'sitemaps/profiles/100000.txt',
-      `https://lenster.xyz/u/${handle}\n`
+      `https://lenstats.xyz/profile/${handle}\n`
     )
   }
 }
