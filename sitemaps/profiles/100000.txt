@@ -14297,3 +14297,6 @@ https://lenstats.xyz/profile/03072.lens
 https://lenstats.xyz/profile/03073.lens
 https://lenstats.xyz/profile/03074.lens
 https://lenstats.xyz/profile/03075.lens
+https://lenstats.xyz/profile/odysseus.lens
+https://lenstats.xyz/profile/kaito.lens
+https://lenstats.xyz/profile/daryledwards.lens
