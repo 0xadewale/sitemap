@@ -14405,3 +14405,5 @@ https://lenstats.xyz/profile/block66.lens
 https://lenstats.xyz/profile/chironpursport.lens
 https://lenstats.xyz/profile/egglet.lens
 https://lenstats.xyz/profile/iproyal.lens
+https://lenstats.xyz/profile/book_lens.lens
+https://lenstats.xyz/profile/nitezshiro.lens
