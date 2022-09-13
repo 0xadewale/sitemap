@@ -14608,3 +14608,5 @@ https://lenstats.xyz/profile/derivative.lens
 https://lenstats.xyz/profile/dovemetrics.lens
 https://lenstats.xyz/profile/chibiclash.lens
 https://lenstats.xyz/profile/introspector.lens
+https://lenstats.xyz/profile/thinkinboutu.lens
+https://lenstats.xyz/profile/rickwal32201229.lens
