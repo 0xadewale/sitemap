@@ -14645,3 +14645,7 @@ https://lenstats.xyz/profile/eltblack.lens
 https://lenstats.xyz/profile/immortalgame.lens
 https://lenstats.xyz/profile/tallyxyz.lens
 https://lenstats.xyz/profile/ektachain.lens
+https://lenstats.xyz/profile/esatoshiclub.lens
+https://lenstats.xyz/profile/curio.lens
+https://lenstats.xyz/profile/anotherblock.lens
+https://lenstats.xyz/profile/geodefinance.lens
