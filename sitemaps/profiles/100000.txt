@@ -14787,3 +14787,5 @@ https://lenstats.xyz/profile/solananameservice.lens
 https://lenstats.xyz/profile/binancenameservice.lens
 https://lenstats.xyz/profile/t00bs.lens
 https://lenstats.xyz/profile/sunboy.lens
+https://lenstats.xyz/profile/fikey.lens
+https://lenstats.xyz/profile/baptist.lens
