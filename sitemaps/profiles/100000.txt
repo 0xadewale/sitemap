@@ -15093,3 +15093,8 @@ https://lenstats.xyz/profile/0eth0.lens
 https://lenstats.xyz/profile/bitcoindata.lens
 https://lenstats.xyz/profile/hannya.lens
 https://lenstats.xyz/profile/pablitodev.lens
+https://lenstats.xyz/profile/web3meta.lens
+https://lenstats.xyz/profile/lenspunks.lens
+https://lenstats.xyz/profile/ekrem10548726.lens
+https://lenstats.xyz/profile/flambolabs.lens
+https://lenstats.xyz/profile/000690.lens
