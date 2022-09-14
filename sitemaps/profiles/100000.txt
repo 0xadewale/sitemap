@@ -15074,3 +15074,6 @@ https://lenstats.xyz/profile/helpabys.lens
 https://lenstats.xyz/profile/web3-ai.lens
 https://lenstats.xyz/profile/moneyplant.lens
 https://lenstats.xyz/profile/001400.lens
+https://lenstats.xyz/profile/redstone_defi.lens
+https://lenstats.xyz/profile/pentacle.lens
+https://lenstats.xyz/profile/jointhearch.lens
