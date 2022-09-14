@@ -14928,3 +14928,5 @@ https://lenstats.xyz/profile/traderepublicde.lens
 https://lenstats.xyz/profile/capricornfund.lens
 https://lenstats.xyz/profile/kushki.lens
 https://lenstats.xyz/profile/pintuid.lens
+https://lenstats.xyz/profile/davebanking.lens
+https://lenstats.xyz/profile/optimismfnd.lens
