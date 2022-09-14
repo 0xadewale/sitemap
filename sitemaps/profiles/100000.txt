@@ -15051,3 +15051,9 @@ https://lenstats.xyz/profile/minnions.lens
 https://lenstats.xyz/profile/kryptonetc.lens
 https://lenstats.xyz/profile/lenstokendrop.lens
 https://lenstats.xyz/profile/codeforlens.lens
+https://lenstats.xyz/profile/letmedown.lens
+https://lenstats.xyz/profile/lenspost.lens
+https://lenstats.xyz/profile/ownyourdigitalroots.lens
+https://lenstats.xyz/profile/fambolabs.lens
+https://lenstats.xyz/profile/twitterdev.lens
+https://lenstats.xyz/profile/lensprotocoldev.lens
